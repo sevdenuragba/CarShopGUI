@@ -1,0 +1,12 @@
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarClassLibrary\bin\Debug\CarClassLibrary.dll
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarClassLibrary\bin\Debug\CarClassLibrary.pdb
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\CarClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\CarClassLibrary.dll
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\CarClassLibrary.pdb
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary2\CarClassLibrary\bin\Debug\CarClassLibrary.dll
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary2\CarClassLibrary\bin\Debug\CarClassLibrary.pdb
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary2\CarClassLibrary\obj\Debug\CarClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary2\CarClassLibrary\obj\Debug\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary2\CarClassLibrary\obj\Debug\CarClassLibrary.dll
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary2\CarClassLibrary\obj\Debug\CarClassLibrary.pdb

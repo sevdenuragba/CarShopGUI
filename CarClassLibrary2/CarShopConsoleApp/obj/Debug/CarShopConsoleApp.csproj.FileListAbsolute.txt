@@ -1,0 +1,9 @@
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe.config
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.pdb
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarClassLibrary.dll
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\bin\Debug\CarClassLibrary.pdb
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.exe
+C:\Users\Sevde Nur Ağba\source\repos\CarClassLibrary\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.pdb
