@@ -1,0 +1,12 @@
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe.config
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.pdb
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.AssemblyReference.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.Form1.resources
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.Properties.Resources.resources
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.GenerateResource.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.exe
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.pdb
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\bin\Debug\CarClassLibrary.dll
+C:\Users\Sevde Nur Ağba\source\repos\CarShopGUI\CarShopGUI\bin\Debug\CarClassLibrary.pdb
